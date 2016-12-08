@@ -7,5 +7,6 @@ public class Example {
     //main()
     public static void main(String args[]) {
         System.out.println("Простая программа на ява");
+        System.out.println("Еще один комит");
     }
 }
